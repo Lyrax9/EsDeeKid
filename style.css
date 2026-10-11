@@ -1,0 +1,132 @@
+.esdeeheading {
+    text-align: center;
+    font-size: 200px;
+    font-family: impact;
+    color:white ;
+}
+.ins{
+    text-align: center;
+    font-size: 75px;
+    font-family: impact;
+    color:white ;
+}
+body {
+    background-color: #212121;
+
+}
+
+.esdeephoto {
+    height: 350px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.numb5 {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 50px;
+    font-family: impact;
+    color:white ;
+}
+
+.fer {
+    display: flex;
+    gap: 40px;
+    margin-left: 10px;
+    
+
+    
+}
+
+.numb5r {
+    font-size: 50px;
+    font-family: arial;
+    color:white ;
+     
+
+}
+
+.numb4 {
+    
+    margin-left: 10px;
+    font-size: 50px;
+    font-family: impact;
+    color:white ;
+
+}
+.kidda{
+    display: flex;
+    gap: 40px;
+    margin-left:10px;
+    
+}
+.lilkidda {
+    font-size: 50px;
+    font-family: arial;
+    color:white ;
+}
+.numb3 {
+    
+    margin-left: 10px;
+    font-size: 50px;
+    font-family: impact;
+    color:white ;
+}
+.rebel{
+    display: flex;
+    gap: 40px;
+    margin-left:10px;
+    
+}
+.rebelhead{
+
+    font-size: 50px;
+    font-family: arial;
+    color:white ;
+}
+.numb2{
+    
+    margin-left: 10px;
+    font-size: 50px;
+    font-family: impact;
+    color:white ;
+}
+.palaces{
+    display:flex;
+    gap: 40px;
+    margin-left: 10px;
+}
+.palacestext{
+    font-size: 50px;
+    font-family: arial;
+    color:white ;
+}
+.bally{
+    display:flex;
+    gap: 40px;
+    margin-left:10px;
+}
+.numb1 {
+    text-align: left;
+    font-size: 50px;
+    font-family: impact;
+    color:white ;
+}
+.ballytext {
+    font-size: 50px;
+    font-family: arial;
+    color:white ;
+}
+.end{
+    text-align: center;
+    font-family: impact;
+    font-size: 100px;
+    color:white ;
+}
+.bye{
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+}
